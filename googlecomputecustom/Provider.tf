@@ -11,5 +11,5 @@ provider "google" {
   project     = "sacred-bonus-403014"
   region      = "us-central1"
   zone        = "us-central1-a"
-  credentials = file("C:/Users/kumarh/Documents/gcp PA/key/sacred-bonus-403014-94a42ca4d0a3.json")
+  credentials = file("C:/Users/kumarh/Downloads/sacred-bonus-403014-5f08297fa702.json")
 }
